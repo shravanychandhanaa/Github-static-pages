@@ -1,3 +1,4 @@
+[![Frontend CI Security Pipeline](https://github.com/wyreflowtechnologies/Crtd_2026_V2/actions/workflows/scans.yml/badge.svg?branch=development)](https://github.com/wyreflowtechnologies/Crtd_2026_V2/actions/workflows/scans.yml)
 # My GitHub Pages Website
 
 This is a simple static website hosted using **GitHub Pages**.  
